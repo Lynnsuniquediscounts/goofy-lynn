@@ -1,0 +1,2 @@
+# goofy-lynn
+inventory
